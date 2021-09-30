@@ -1,7 +1,7 @@
 # Pancakeswap-Uniswap-DxSale-SniperBot
 Unified version of the best snipers on the market. 5 different modes.
 
-https://pancakesniperbot.com/product/pancakeswap-plus-and-uniswap-plus-package/  <------ The price on this website is $3,299
+https://pancakesniperbot.com/product/pancakeswap-plus-and-uniswap-plus-package/  <------ Website price $3,299
 https://pancakesniperbot.com/faq/   <------ FAQ
 
 # !!!!! THE SITE DOESN'T BELONG TO ME !!!!!
